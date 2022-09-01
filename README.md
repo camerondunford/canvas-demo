@@ -1,3 +1,12 @@
+# Project Details
+
+- Build a React app that has an interact-able graph UI.
+- We want to be able to click on the canvas to add nodes.
+- Click on existing nodes to highlight them (click on the canvas again to deselect the highlighted node(s)).
+- Click and drag existing nodes to move where they are on the canvas.
+- Some way to select 2 nodes (shift+click or a multiple select mode) and the ability to "create a connection" between the two selected nodes.  The connection can be visualized somehow (a black line).
+- Some way to delete nodes.  Deletion should also delete any connections that start or end at that node.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
