@@ -7,6 +7,14 @@
 - Some way to select 2 nodes (shift+click or a multiple select mode) and the ability to "create a connection" between the two selected nodes.  The connection can be visualized somehow (a black line).
 - Some way to delete nodes.  Deletion should also delete any connections that start or end at that node.
 
+# Usage Instructions
+
+- Double click to add a node.
+- Drag from the source connector (right) to the destination connector (left) of desired nodes.
+- Click a connection line to remove the connection.
+- Click a node to select. Shift + click to select multiple nodes.
+- Press `Delete` to remove node(s) & associated connections.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
