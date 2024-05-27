@@ -12,5 +12,11 @@ updates:
     groups:
       dependencies:
         dependency-type: "production"
+        update-types:
+          - 'minor'
+          - 'patch'
       devDependencies:
         dependency-type: "development"
+        update-types:
+          - 'minor'
+          - 'patch'
